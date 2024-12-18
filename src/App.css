@@ -25,7 +25,7 @@ body {
 }
 
 .calculator-gird>button:hover,
-.calculator-gird>button:hover {
+.calculator-gird>button:active {
   background-color: rgba(255, 255, 255, .9);
   transition: .500s;
 }
